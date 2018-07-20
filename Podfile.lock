@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Kingfisher (4.8.0)
+  - LLCycleScrollView (1.4.8):
+    - Kingfisher
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - Kingfisher (~> 4.8.0)
+  - LLCycleScrollView (~> 1.4.8)
+  - SDWebImage (~> 4.4.1)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - LLCycleScrollView
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  LLCycleScrollView: ba2f11e78a537cd3b36df58308822babbd41b202
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 40ea2e2231b1acd761e51f7bd18d2d5dd7b2b652
+
+COCOAPODS: 1.5.3
